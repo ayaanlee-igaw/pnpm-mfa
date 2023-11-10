@@ -1,0 +1,3 @@
+packages:
+  - 'packages/container'
+  - 'packages/service'
