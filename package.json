@@ -6,7 +6,7 @@
   ],
   "scripts": {
     "build": "pnpm --parallel --filter \"./**\" build",
-    "serve": "pnpm build && pnpm --parallel --filter \"./**\" serve",
+    "serve": "pnpm --parallel --filter \"./**\" serve",
     "preview": "pnpm build && pnpm --parallel --filter \"./**\" preview"
   },
   "devDependencies": {
