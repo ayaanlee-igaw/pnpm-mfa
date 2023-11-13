@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0fa8cda5-4e3b-410b-8690-6fce6844c8f7" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/container/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/container/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/container/vite.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/container/vite.config.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/service/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/service/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/service/vite.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/service/vite.config.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +40,7 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "pnpm",
     "prettierjs.PrettierConfiguration.Package": "C:\\Users\\ayaanlee\\projects\\monorepo-other\\node_modules\\prettier",
-    "ts.external.directory.path": "C:\\Users\\ayaanlee\\projects\\monorepo-other\\packages\\container\\node_modules\\typescript\\lib",
+    "ts.external.directory.path": "C:\\Users\\ayaanlee\\projects\\monorepo-other\\node_modules\\typescript\\lib",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -55,7 +60,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1699591930870</updated>
-      <workItem from="1699591931923" duration="16294000" />
+      <workItem from="1699591931923" duration="17107000" />
     </task>
     <servers />
   </component>

@@ -6,7 +6,8 @@
   ],
   "scripts": {
     "build": "pnpm --parallel --filter \"./**\" build",
-    "serve": "pnpm build && pnpm --parallel --filter \"./**\" serve"
+    "serve": "pnpm build && pnpm --parallel --filter \"./**\" serve",
+    "preview": "pnpm build && pnpm --parallel --filter \"./**\" preview"
   },
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^5.58.0",
