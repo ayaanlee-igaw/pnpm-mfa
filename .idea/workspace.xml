@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0fa8cda5-4e3b-410b-8690-6fce6844c8f7" name="Changes" comment="" />
+    <list default="true" id="0fa8cda5-4e3b-410b-8690-6fce6844c8f7" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,7 +35,7 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "pnpm",
     "prettierjs.PrettierConfiguration.Package": "C:\\Users\\ayaanlee\\projects\\monorepo-other\\node_modules\\prettier",
-    "ts.external.directory.path": "C:\\Users\\ayaanlee\\projects\\monorepo-other\\node_modules\\typescript\\lib",
+    "ts.external.directory.path": "C:\\Users\\ayaanlee\\projects\\monorepo-other\\packages\\container\\node_modules\\typescript\\lib",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -53,7 +55,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1699591930870</updated>
-      <workItem from="1699591931923" duration="14380000" />
+      <workItem from="1699591931923" duration="16294000" />
     </task>
     <servers />
   </component>
