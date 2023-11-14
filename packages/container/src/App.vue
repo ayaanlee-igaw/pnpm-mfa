@@ -12,12 +12,11 @@ import HelloWorld from './components/HelloWorld.vue'
 
       <nav>
         <RouterLink to="/">Home</RouterLink>
-        <RouterLink to="/about">About</RouterLink>
+        <RouterLink to="/remote1">Remote1</RouterLink>
+        <RouterLink to="/remote2">Remote2</RouterLink>
       </nav>
     </div>
   </header>
-
-  <RemoteService />
   <RouterView />
 </template>
 

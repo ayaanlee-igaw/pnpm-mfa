@@ -8,6 +8,7 @@ import SupportIcon from './icons/IconSupport.vue'
 </script>
 
 <template>
+  This is Remote HomeView
   <WelcomeItem>
     <template #icon>
       <DocumentationIcon />

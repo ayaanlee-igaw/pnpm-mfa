@@ -5,6 +5,7 @@ import vue from '@vitejs/plugin-vue'
 import federation from '@originjs/vite-plugin-federation';
 
 // https://vitejs.dev/config/
+
 export default defineConfig({
   // base: 'http://localhost:5001',
   // server: {
@@ -22,8 +23,12 @@ export default defineConfig({
     federation({
       name: 'service',
       filename: 'remoteEntry.js',
+      remotes: {
+        host: 'http://localhost:5001/assets/hostEntry.js',
+      },
       exposes: {
         './App': './src/App.vue',
+        './router': './src/router/index',
       },
       shared: ['vue', 'pinia', 'vue-router'],
     }),

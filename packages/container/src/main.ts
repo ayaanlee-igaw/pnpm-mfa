@@ -5,7 +5,6 @@ import { createPinia } from 'pinia'
 
 // @ts-ignore
 const RemoteService = defineAsyncComponent(() => import('service/App'));
-// import RemoteService from 'service_app/App';
 
 // @ts-ignore
 import App from './App.vue'

@@ -5,8 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0fa8cda5-4e3b-410b-8690-6fce6844c8f7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/packages/service/src/views/Remote2View.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/container/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/packages/container/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/container/src/main.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/container/src/main.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/container/src/router/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/container/src/router/index.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/packages/container/vite.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/container/vite.config.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/service/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/packages/service/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/service/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/packages/service/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/service/src/assets/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/packages/service/src/assets/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/service/src/components/TheWelcome.vue" beforeDir="false" afterPath="$PROJECT_DIR$/packages/service/src/components/TheWelcome.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/service/src/main.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/service/src/main.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/service/src/router/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/service/src/router/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/service/src/views/HomeView.vue" beforeDir="false" afterPath="$PROJECT_DIR$/packages/service/src/views/Remote1View.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/service/vite.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/service/vite.config.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pnpm-lock.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pnpm-lock.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,19 +42,20 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/ayaanlee/projects/monorepo-other",
+    "last_opened_file_path": "C:/Users/Harry/Desktop/dev/pnpm-mfa-vite/packages/service/src/views",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "pnpm",
     "prettierjs.PrettierConfiguration.Package": "C:\\Users\\ayaanlee\\projects\\monorepo-other\\node_modules\\prettier",
-    "ts.external.directory.path": "C:\\Users\\ayaanlee\\projects\\monorepo-other\\node_modules\\typescript\\lib",
+    "ts.external.directory.path": "C:\\Users\\Harry\\Desktop\\dev\\pnpm-mfa-vite\\node_modules\\typescript\\lib",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Harry\Desktop\dev\pnpm-mfa-vite\packages\service\src\views" />
       <recent name="C:\Users\ayaanlee\projects\monorepo-other" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -57,6 +71,7 @@
       <option name="presentableId" value="Default" />
       <updated>1699591930870</updated>
       <workItem from="1699591931923" duration="18998000" />
+      <workItem from="1699937793578" duration="7961000" />
     </task>
     <servers />
   </component>
